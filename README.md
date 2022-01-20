@@ -84,13 +84,14 @@
                <td>9.2</td>
              </tr>
           </table> <br> <br>
-   
+   <form>
   <label for="Order">Order</label> <br> <br>
   <input type="text"placeholder="Dish name"required> <br> <br />
   <input type="text" placeholder="Address"required><br> <br />
   <input type="number"placeholder="Phone number"maxlength="10"required> <br> <br>
 <input type="number"placeholder="quantity"required><br>  <br>
   <input type="submit"value="order">
+</form>
   
   <pre>
 Address
